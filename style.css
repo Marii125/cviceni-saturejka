@@ -10,6 +10,20 @@ h2 {
   font-family: 'Playfair Display', serif;
 }
 
+
+body {
+  background-color: #FFEFEF;
+}
+
+.container {
+  width: 80%;
+  /* text-align: center; */
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 10px 50px;
+}
+
+
 .logo {
   display: block;
   margin-left: auto;
