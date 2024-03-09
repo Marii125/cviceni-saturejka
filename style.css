@@ -41,11 +41,15 @@ ul {
   height: auto;
 }
 
+.div-1-of-3 {
+  width: 30%;
+}
+
+
+.textp-flex {
+  display: flex;
+}
 
 .textp {
   width: 50%;
-}
-
-.textp2 {
-  width: 48%;
 }
